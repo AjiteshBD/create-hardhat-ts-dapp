@@ -1,6 +1,6 @@
 Create hardhat typescript dapps with no build configuration.
 
-# Creating an via Command line
+# Creating an hardhat typescript dapp via Command line
 
 ```sh
 $ npx create-hardhat-ts-dapp my-dapp
