@@ -1,3 +1,12 @@
+Create hardhat typescript dapps with no build configuration.
+
+# Creating an via Command line
+
+```sh
+$ npx create-hardhat-ts-dapp my-dapp
+ cd my-dapp
+```
+
 # Hardhat Template [![Open in Gitpod][gitpod-badge]][gitpod] [![Github Actions][gha-badge]][gha] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
 
 [gitpod]: https://gitpod.io/#https://github.com/AjiteshBD/create-hardhat-dapp

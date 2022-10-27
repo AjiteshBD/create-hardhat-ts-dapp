@@ -1,7 +1,8 @@
 {
-  "name": "@AjiteshBD/create-hardhat-dapp",
+  "name": "create-hardhat-ts-dapp",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.3",
+  "bin": "./bin/cli.js",
   "author": {
     "name": "AjiteshBD",
     "url": "https://github.com/AjiteshBD"
@@ -43,7 +44,7 @@
     "lint-staged": "^13.0.3",
     "lodash": "^4.17.21",
     "mocha": "^10.0.0",
-    "pinst": "^3.0.0",
+    "pinst": "^2.1.6",
     "prettier": "^2.7.1",
     "prettier-plugin-solidity": "^1.0.0-beta.24",
     "shx": "^0.3.4",
