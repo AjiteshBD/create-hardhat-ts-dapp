@@ -7,6 +7,10 @@ $ npx create-hardhat-ts-dapp my-dapp
  cd my-dapp
 ```
 
+# EVM Chains RPCs, Testnets RPCs & Faucets Configs Tips
+
+[chainex]: https://chainex.web3shala.com
+
 # Hardhat Template [![Open in Gitpod][gitpod-badge]][gitpod] [![Github Actions][gha-badge]][gha] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
 
 [gitpod]: https://gitpod.io/#https://github.com/AjiteshBD/create-hardhat-dapp
